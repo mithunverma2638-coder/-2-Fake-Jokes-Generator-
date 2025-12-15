@@ -31,6 +31,10 @@ Breaking News: Ronaldo celebrates the new movie
 
 ---
 
+Would you like me to create **similar stylish README files** (with emojis, examples, and highlights) for your other two projects too —  
+🧮 *Calculator with History* and 😂 *Fake Jokes Generator* — in the same professional style?
+
+
 ---
 🏁 Author
 
