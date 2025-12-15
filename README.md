@@ -1,4 +1,4 @@
-# 😂 -2-Fake-Jokes-Generator-
+## 😂 -2-Fake-Jokes-Generator-
 
 
 A fun **Python script** that creates random, hilarious “fake news” headlines by combining random subjects, actions, and objects!
@@ -27,3 +27,15 @@ A fun **Python script** that creates random, hilarious “fake news” headlines
 Breaking News: Virat Kohli dances with a plate of biryani
 
 Breaking News: Ronaldo celebrates the new movie
+
+
+---
+
+---
+🏁 Author
+
+👤 Mithun
+📧 [(https://www.linkedin.com/in/mithun-verma-526339209/)]
+
+🔗 (https://github.com/mithunverma2638-coder)
+
